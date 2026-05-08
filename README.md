@@ -189,3 +189,7 @@ To undo a swap, either click **Revert selected target** in the swapper, or manua
 - Target and donor must be from the **same slot** (e.g. you cannot swap a Body onto a Wheel slot).
 - If a swap produces a package that fails to load, open the output file in `rl_upk_editor.py` and run **Verify Package** to see which header invariant was violated.
 - The `.bak` files created by overwrite mode make it easy to restore a previous swap without needing the original dump.
+
+
+
+-Credti @Crunchy
